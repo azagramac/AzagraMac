@@ -14,7 +14,7 @@ My name is Jose, I'm from Spain and I'm a SRE.
 
 ## Contact
 
-* You can contact with me on email josel.azagra@pm.me or with Linkedin
+* You can contact with me on email <a href="mailto:josel.azagra@pm.me?Subject=from%20github">from Github</a> or with Linkedin
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzagraMac&show_icons=true" />
 
