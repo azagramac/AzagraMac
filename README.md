@@ -2,7 +2,7 @@
 
 My name is Jose, I'm from Spain and I'm a SRE.
 
-* :man: :briefcase: View my [Linkedin Profile](https://www.linkedin.com/in/joselazagra/)
+* :man: :briefcase: View my <a href ="https://www.linkedin.com/in/joselazagra/" target="_blank">Linkedin Profile</a>
 
 ## Skills
 
