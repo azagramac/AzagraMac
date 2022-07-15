@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jose, I'm from Spain and I'm a SRE.
+My name is Jose, I'm from Spain.
 
 * :man: :briefcase: View my <a href ="https://www.linkedin.com/in/joselazagra/" target="_blank">Linkedin Profile</a>
 
