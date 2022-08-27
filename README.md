@@ -8,7 +8,7 @@ My name is Jose, I'm from Spain.
 
 * :penguin: Docker, Shell Script, Ansible, CI/CD. I love automation. 
 * :anchor: Kubernetes and all environment around it.
-* :hatching_chick: Gitlab CI, Github Actions, Docker, Ansible, Jenkins, SonarQube, Checkov
+* :hatching_chick: Gitlab CI, Github Actions, Ansible, Jenkins, SonarQube, Checkov
 * :computer: Linux, MacOS
  
 
