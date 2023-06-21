@@ -10,7 +10,7 @@ I live in Spain and I am DevOps.
 ### Contact
 Send mail [✉️](mailto:josel.azagra@pm.me?Subject=from%20github) or with [![Linkedin](https://img.shields.io/badge/-Jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselazagra/)](https://www.linkedin.com/in/joselazagra/) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzagraMac\&rank_icon=github\&border_color=2e4058)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzagraMac\&rank_icon=github)
 
 #### Buy Me A Coffee ☕️
 <a href="https://www.paypal.com/paypalme/azagramac" target="_blank"><img src="https://www.nopcommerce.com/images/thumbs/0005707_paypalme-payment-method.png" alt="Buy Me A Coffee" style="height: 28px !important;" /></a> <br>
