@@ -10,7 +10,8 @@ My name is Jose, I'm from Spain.
 ## Contact
 
 * You can contact with me on <a title="email" href="mailto:josel.azagra@pm.me?Subject=from%20github"><img src="https://github.com/JuanRodenas/JuanRodenas/blob/main/mail.png" alt="mail" width="24"/></a> or with [![Linkedin](https://img.shields.io/badge/-Jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselazagra/)](https://www.linkedin.com/in/joselazagra/) 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AzagraMac&show_icons=true" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzagraMac\&rank_icon=github\&border_color=2e4058)
 
 #### Buy Me A Coffee
 <a href="https://www.paypal.com/paypalme/azagramac" target="_blank"><img src="https://www.nopcommerce.com/images/thumbs/0005707_paypalme-payment-method.png" alt="Buy Me A Coffee" style="height: 28px !important;" /></a> <br>
