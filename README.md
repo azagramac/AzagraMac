@@ -1,7 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Profile%20views&color=0e75b6&style=flat" alt="azagramac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Views&color=0e75b6&style=flat" alt="azagramac" /> </p>
 
-### Hi, my name is Jose 👋
-I live in Spain and I am DevOps.
+### Home 🏡
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzagraMac&theme=vue)
 
 ### Skills 🗒
 * ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=d70a53) ![Fedora](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=0B57A4) ![RedHat](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat&logoColor=white&color=CC0000) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=dd4814) ![Linux Mint](https://img.shields.io/badge/OS-LinuxMint-informational?style=flat&logo=linuxmint&logoColor=white&color=3EB489) ![Macintosh](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff9500) 
@@ -9,8 +10,6 @@ I live in Spain and I am DevOps.
 
 ### Contact
 Send mail [✉️](mailto:josel.azagra@pm.me?Subject=from%20github) or with [![Linkedin](https://img.shields.io/badge/-Jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselazagra/)](https://www.linkedin.com/in/joselazagra/) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzagraMac\&rank_icon=github)
 
 #### Buy Me A Coffee ☕️
 <a href="https://www.paypal.com/paypalme/azagramac" target="_blank"><img src="https://www.nopcommerce.com/images/thumbs/0005707_paypalme-payment-method.png" alt="Buy Me A Coffee" style="height: 28px !important;" /></a> <br>
