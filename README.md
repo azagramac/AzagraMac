@@ -16,7 +16,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azagramac&theme=transparent)
 
-☕️ Buy Me A Coffee:
+☕️ Buy me a coffee:
 
 [![PaypalMe](https://img.shields.io/badge/-azagramac-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
 
