@@ -1,22 +1,33 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Views&color=0e75b6&style=flat" alt="azagramac" /> </p>
-
-### Home 🏡
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azagramac&theme=transparent)
+<h1>Hi I'm Jose<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=views&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
 
 
-### Skills 🗒
+📬 How to reach me: 
+
+[![Telegram Badge](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/azagramac)
+[![Mail Badge](https://img.shields.io/badge/-josel.azagra-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
+[![Linkedin Badge](https://img.shields.io/badge/-joselazagra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselazagra)
+
+
+🗒 Skills:
+
 * ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=d70a53) ![Fedora](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=0B57A4) ![RedHat](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat&logoColor=white&color=CC0000) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=dd4814) ![Linux Mint](https://img.shields.io/badge/OS-LinuxMint-informational?style=flat&logo=linuxmint&logoColor=white&color=3EB489) ![Macintosh](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff9500) 
 * ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3970e4) ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed) ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=171515) ![GitLab](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=fca326) ![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=000000) ![SonarQube](https://img.shields.io/badge/SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=42c2f5) ![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=48728B) ![ArgoCD](https://img.shields.io/badge/ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=000080) ![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=008184)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azagramac&theme=transparent)
 
-### Contact
-Send mail [✉️](mailto:josel.azagra@pm.me?Subject=from%20github) or with [![Linkedin](https://img.shields.io/badge/-Jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselazagra/)](https://www.linkedin.com/in/joselazagra/) 
+☕️ Buy Me A Coffee:
+
+[![PaypalMe Badge](https://img.shields.io/badge/-azagramac-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
+
+<img src="https://cdn3.emoji.gg/emojis/4586-bitcoin-logo.png" width="16" height="16" /> <code>1K7bU83Lw1LxzN2dKWrLrWjA51HDpfyzWm</code> <br>
+<img src="https://cdn3.emoji.gg/emojis/7675-ethereum.png" width="16" height="16" /> <code>0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11</code> <br>
+<img src="https://user-images.githubusercontent.com/571796/234834948-f111b72f-d0c4-458c-bcc2-83a436edfdf5.png" width="16" height="16" /> <code>DJfiHJGmJK6iCB8iugG879a4L6ixNHtYg1</code> <br>
+<img src="https://cdn3.emoji.gg/emojis/5455-litecoin.png" width="16" height="16" /> <code>LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg</code>
 
 
-#### Buy Me A Coffee ☕️
-<a href="https://www.paypal.com/paypalme/azagramac" target="_blank"><img src="https://www.nopcommerce.com/images/thumbs/0005707_paypalme-payment-method.png" alt="Buy Me A Coffee" style="height: 28px !important;" /></a> <br>
-<img src="https://cdn3.emoji.gg/emojis/4586-bitcoin-logo.png" width="16" height="16" /> 1K7bU83Lw1LxzN2dKWrLrWjA51HDpfyzWm <br>
-<img src="https://cdn3.emoji.gg/emojis/7675-ethereum.png" width="16" height="16" /> 0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11 <br>
-<img src="https://user-images.githubusercontent.com/571796/234834948-f111b72f-d0c4-458c-bcc2-83a436edfdf5.png" width="16" height="16" /> DJfiHJGmJK6iCB8iugG879a4L6ixNHtYg1 <br>
-<img src="https://cdn3.emoji.gg/emojis/5455-litecoin.png" width="16" height="16" /> LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg
+👥 Follow me: 
+
+[![GitHub Badge](https://img.shields.io/badge/-azagramac-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/AzagraMac/)
+[![Blog Badge](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=gitbook&logoColor=white)](https://azagramac.gitbook.io/)
+[![Youtube Badge](https://img.shields.io/badge/-azagramac-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white)](https://www.youtube.com/@azagramac)
