@@ -4,9 +4,9 @@
 
 📬 How to reach me: 
 
-[![Telegram Badge](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/azagramac)
-[![Mail Badge](https://img.shields.io/badge/-josel.azagra-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
-[![Linkedin Badge](https://img.shields.io/badge/-joselazagra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselazagra)
+[![Telegram](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/azagramac)
+[![Mail](https://img.shields.io/badge/-josel.azagra-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
+[![Linkedin](https://img.shields.io/badge/-joselazagra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselazagra)
 
 
 🗒 Skills:
@@ -18,7 +18,7 @@
 
 ☕️ Buy Me A Coffee:
 
-[![PaypalMe Badge](https://img.shields.io/badge/-azagramac-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
+[![PaypalMe](https://img.shields.io/badge/-azagramac-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
 
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/f4f27bb8-cc3a-47e7-94a9-c4569d412a80" width="19" height="19" title="bitcoin"/> <code>1K7bU83Lw1LxzN2dKWrLrWjA51HDpfyzWm</code> <br>
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/59998222-1cc2-405e-b5f6-323d5e456ba9" width="19" height="19" title="ethereum"/> <code>0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11</code> <br>
@@ -28,6 +28,6 @@
 
 👥 Follow me: 
 
-[![GitHub Badge](https://img.shields.io/badge/-azagramac-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/AzagraMac/)
-[![Blog Badge](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=gitbook&logoColor=white)](https://azagramac.gitbook.io/)
-[![Youtube Badge](https://img.shields.io/badge/-azagramac-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white)](https://www.youtube.com/@azagramac)
+[![GitHub](https://img.shields.io/badge/-azagramac-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/AzagraMac/)
+[![Blog](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=gitbook&logoColor=white)](https://azagramac.gitbook.io/)
+[![Youtube](https://img.shields.io/badge/-azagramac-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white)](https://www.youtube.com/@azagramac)
