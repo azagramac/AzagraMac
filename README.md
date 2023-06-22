@@ -20,10 +20,10 @@
 
 [![PaypalMe Badge](https://img.shields.io/badge/-azagramac-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
 
-<img src="https://cdn3.emoji.gg/emojis/4586-bitcoin-logo.png" width="16" height="16" /> <code>1K7bU83Lw1LxzN2dKWrLrWjA51HDpfyzWm</code> <br>
-<img src="https://cdn3.emoji.gg/emojis/7675-ethereum.png" width="16" height="16" /> <code>0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11</code> <br>
-<img src="https://user-images.githubusercontent.com/571796/234834948-f111b72f-d0c4-458c-bcc2-83a436edfdf5.png" width="16" height="16" /> <code>DJfiHJGmJK6iCB8iugG879a4L6ixNHtYg1</code> <br>
-<img src="https://cdn3.emoji.gg/emojis/5455-litecoin.png" width="16" height="16" /> <code>LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg</code>
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/f4f27bb8-cc3a-47e7-94a9-c4569d412a80" width="19" height="19" title="bitcoin"/> <code>1K7bU83Lw1LxzN2dKWrLrWjA51HDpfyzWm</code> <br>
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/59998222-1cc2-405e-b5f6-323d5e456ba9" width="19" height="19" title="ethereum"/> <code>0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11</code> <br>
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/b22e20a6-5147-4615-93dd-08e8e2d3d25b" width="19" height="19" title="doge" /> <code>DJfiHJGmJK6iCB8iugG879a4L6ixNHtYg1</code> <br>
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/c21d91cb-6c03-4cdf-aff0-4bba4e1837bf" width="19" height="19" title="litecoin"/> <code>LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg</code>
 
 
 👥 Follow me: 
