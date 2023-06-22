@@ -2,7 +2,8 @@
 
 ### Home 🏡
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzagraMac&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azagramac&theme=transparent)
+
 
 ### Skills 🗒
 * ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=d70a53) ![Fedora](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=0B57A4) ![RedHat](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat&logoColor=white&color=CC0000) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=dd4814) ![Linux Mint](https://img.shields.io/badge/OS-LinuxMint-informational?style=flat&logo=linuxmint&logoColor=white&color=3EB489) ![Macintosh](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff9500) 
