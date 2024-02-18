@@ -27,6 +27,8 @@
 <img src="https://github.com/AzagraMac/DuinoCoinTelegramBot/assets/571796/6748fb38-f513-4c61-b3bb-0a6b1437c536" width="19" height="19" title="duinocoin"/>
 <code>azagramac</code>
 
+[WolrdCoin](https://worldcoin.org/join/SSTX931)
+
 👥 Follow me: 
 
 [![GitHub](https://img.shields.io/badge/-github-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/AzagraMac/)
