@@ -29,7 +29,9 @@
 
 ✌️ **Invitation**
 
-<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/17916e1d-fcc1-4dbd-af7d-8daf814d8d1c" width="19" height="19" title="worldcoin"/> [WolrdCoin](https://worldcoin.org/join/SSTX931)
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/17916e1d-fcc1-4dbd-af7d-8daf814d8d1c" width="19" height="19" title="worldcoin"/> [WolrdCoin](https://worldcoin.org/join/SSTX931) <br>
+<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/c69b2307-63d8-4c5d-88a0-05fcfda1df2f" width="250" height="250" title="worldcoin"/>
+
 
 
 👥 **Follow me** 
