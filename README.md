@@ -4,7 +4,6 @@
 
 📬 **How to reach me:**
 
-[![Telegram](https://img.shields.io/badge/-azagramac-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/azagramac)
 [![Mail](https://img.shields.io/badge/-josel.azagra-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
 [![Linkedin](https://img.shields.io/badge/-joselazagra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselazagra)
 
@@ -26,11 +25,6 @@
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/c21d91cb-6c03-4cdf-aff0-4bba4e1837bf" width="19" height="19" title="litecoin"/> <code>LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg</code> <br>
 <img src="https://github.com/AzagraMac/DuinoCoinTelegramBot/assets/571796/6748fb38-f513-4c61-b3bb-0a6b1437c536" width="19" height="19" title="duinocoin"/>
 <code>azagramac</code> <br>
-
-✌️ **Invitation**
-
-<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/17916e1d-fcc1-4dbd-af7d-8daf814d8d1c" width="19" height="19" title="worldcoin"/> [WolrdCoin](https://worldcoin.org/join/SSTX931) <br>
-<img src="https://github.com/AzagraMac/AzagraMac/assets/571796/c69b2307-63d8-4c5d-88a0-05fcfda1df2f" width="250" height="250" title="worldcoin"/>
 
 
 
