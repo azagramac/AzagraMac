@@ -32,7 +32,7 @@ Hello, my name is Jose, I've been playing with the computer for more than 30 yea
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/azagramac)
 [![Mail](https://img.shields.io/badge/protonmail-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
-[![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlazagra/)
 
 
 ☕️ **Donations welcome**
