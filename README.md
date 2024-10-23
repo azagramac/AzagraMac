@@ -43,6 +43,8 @@ Hello, my name is Jose, I've been playing with the computer for more than 30 yea
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/c21d91cb-6c03-4cdf-aff0-4bba4e1837bf" width="19" height="19" title="litecoin"/> <code>LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg</code> <br>
 <img src="https://github.com/user-attachments/assets/47ee4491-a6a2-4015-982d-bad5d62fb034" width="19" height="19" title="oxem"/> 
 <code>L789WvVjUJqVymDZuFqEVV1zzzXz9wC4fB7MtS36UotigGjHXccDiDZhPPCjY82Wnkc7Zb2pSfTi2BfVy9M5vYDL1cCYxTW</code> <br>
+<img src="https://github.com/user-attachments/assets/9dc231d3-13ac-4815-a99a-aab2d01139ed" width="19" height="19" title="worldcoin"/> [Worldcoin Invitation](https://worldcoin.org/join/SSTX931) <br>
 [![PaypalMe](https://img.shields.io/badge/Paypal-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Hello&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
