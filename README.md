@@ -1,9 +1,3 @@
-
-```sh
-Hello, my name is Jose, I've been playing with the computer for more than 30 years, since 1996 playing with GNU/Linux, and since 2005 professionally as GNU/Linux system administrator, the last years in DevOps and Cybersecurity, oh and I also play. 
-```
-
-
 👨🏻‍💻 **Shares**
 
  - [Breezy-weather, Translation](https://hosted.weblate.org/changes/?user=AzagraMac&action=2&action=5) - [Android App](https://github.com/breezy-weather/breezy-weather/releases)
