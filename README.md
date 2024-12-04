@@ -38,6 +38,7 @@
 <img src="https://github.com/user-attachments/assets/47ee4491-a6a2-4015-982d-bad5d62fb034" width="19" height="19" title="oxem"/> 
 <code>L789WvVjUJqVymDZuFqEVV1zzzXz9wC4fB7MtS36UotigGjHXccDiDZhPPCjY82Wnkc7Zb2pSfTi2BfVy9M5vYDL1cCYxTW</code> <br>
 <img src="https://github.com/user-attachments/assets/9dc231d3-13ac-4815-a99a-aab2d01139ed" width="19" height="19" title="worldcoin"/> [Worldcoin Invitation](https://worldcoin.org/join/SSTX931) <br>
+<img src="https://github.com/user-attachments/assets/f4f275b7-1af1-441c-a1bc-cd9aaf37a0d0" width="19" height="19" title="pinetwork"/> [Pi Network Invitation](https://minepi.com/azagramac) <br>
 [![PaypalMe](https://img.shields.io/badge/Paypal-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac)
 
 
