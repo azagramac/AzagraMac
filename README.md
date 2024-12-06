@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Use referral code, azagramac-F4AF47?style=flat&logo=pinetwork&logoColor=F4AF47&label=pinetwork" alt="pi network"> <br>
 </a>
 <a href="https://worldcoin.org/join/SSTX931" target="_blank">
-  <img src="https://img.shields.io/badge/Use referal code, SSTX931-ffffff?style=flat&logo=openai&logoColor=000000&label=Worldcoin&labelColor=ffffff" alt="worldcoin"> <br>
+  <img src="https://img.shields.io/badge/Use referral code, SSTX931-ffffff?style=flat&logo=openai&logoColor=000000&label=Worldcoin&labelColor=ffffff" alt="worldcoin"> <br>
 </a>
 [![PaypalMe](https://img.shields.io/badge/PaypalMe-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac) <br>
 
