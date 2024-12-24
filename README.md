@@ -25,7 +25,6 @@
 📬 **How you can contact me:**
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/azagramac)
-[![Mail](https://img.shields.io/badge/protonmail-8a90c7?style=flat&labelColor=8a90c7&logo=protonmail&logoColor=white)](mailto:josel.azagra@pm.me?Subject=from%20github) 
 [![Linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlazagra/)
 
 ---
@@ -36,12 +35,14 @@
 ![doge](https://img.shields.io/badge/DJfiHJGmJK6iCB8iugG879a4L6ixNHtYg1-C2A633?style=flat&logo=dogecoin&label=dogecoin) <br>
 ![litecoin](https://img.shields.io/badge/LgWSf87Vfcz5yejVjZJWvSbi5WwBRaRsZg-A6A9AA?style=flat&logo=litecoin&logoColor=A6A9AA&label=litecoin) <br>
 ![oxem](https://img.shields.io/badge/L789WvVjUJqVymDZuFqEVV1zzzXz9wC4fB7MtS36UotigGjHXccDiDZhPPCjY82Wnkc7Zb2pSfTi2BfVy9M5vYDL1cCYxTW-6aff76?style=flat&logo=session&logoColor=6aff76&label=oxem) <br>
+[![PaypalMe](https://img.shields.io/badge/PaypalMe-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac) <br>
+---
 <a href="https://minepi.com/azagramac" target="_blank">
   <img src="https://img.shields.io/badge/Use referral code, azagramac-F4AF47?style=flat&logo=pinetwork&logoColor=F4AF47&label=pinetwork" alt="pi network"> <br>
 </a>
 <a href="https://worldcoin.org/join/SSTX931" target="_blank">
   <img src="https://img.shields.io/badge/Use referral code, SSTX931-ffffff?style=flat&logo=openai&logoColor=000000&label=Worldcoin&labelColor=ffffff" alt="worldcoin"> <br>
 </a>
-[![PaypalMe](https://img.shields.io/badge/PaypalMe-253B80?style=flat&labelColor=253B80&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azagramac) <br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Hello&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
