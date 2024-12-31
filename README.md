@@ -4,6 +4,7 @@
  - [Duinocoin, Telegram Bot](https://duinocoin.com/apps.html) - [Telegram bot](https://github.com/azagramac/DuinoCoinTelegramBot)
  - [Wireguard docker](https://github.com/azagramac/wireguard-docker)
  - [Adguardhome docker](https://github.com/azagramac/adguardhome-docker)
+ - [WireGuard for Ubiquiti EdgeRouter 4](https://blog.azagra.dev/unifi/configurar-wireguard-en-edgerouter-4-6p)
 
 
 🗒 **Skills:**
