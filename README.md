@@ -19,8 +19,6 @@
 [![DockerHub](https://img.shields.io/badge/-dockerhub-086dd7?style=flat&labelColor=086dd7&logo=docker&logoColor=white)](https://hub.docker.com/repositories/azagramac)
 [![Blog](https://img.shields.io/badge/-gitbook-0088cc?style=flat&labelColor=0088cc&logo=gitbook&logoColor=white)](https://blog.azagra.dev)
 [![Keybase](https://img.shields.io/badge/-keybase-3663ea?style=flat&labelColor=ff6f21&logo=keybase&logoColor=white)](https://keybase.io/joselazagra)
-[![Youtube](https://img.shields.io/badge/-youtube-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white)](https://www.youtube.com/@azagramac) 
-[![Flickr](https://img.shields.io/badge/-flickr-FF0084?style=flat&labelColor=0063dc&logo=flickr&logoColor=white)](https://www.flickr.com/photos/93901621@N07)
 
 </a>
 
